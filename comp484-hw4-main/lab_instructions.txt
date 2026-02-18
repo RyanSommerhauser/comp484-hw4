@@ -5,6 +5,7 @@ In this hw, you will work on the sample Comp484 site to determine where lists ar
 1.	Examine site navigation
 			a.	Applies to: all pages
 			b.	Examine the top-level navigation for the site. Currently all links are enclosed in an individual paragraph. Is this semantically sound? 
+				Answer: No I dont think that this is semantically sound. Paragraph formats like these are meant for blocks of text, not a list of information
 			c. If not, organize the links into the appropriate list type
 			
 2.	Examine HTML timeline
