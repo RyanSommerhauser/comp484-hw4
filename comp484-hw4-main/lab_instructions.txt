@@ -11,16 +11,19 @@ In this hw, you will work on the sample Comp484 site to determine where lists ar
 2.	Examine HTML timeline
 			a.	Applies to: intro.html
 			b.	In the HTML timeline section examine the paragraphs containing relevant dates. Is this the best semantic grouping for this content?
+				Answer: No again I think a list makes sense over individual paragraphs for the same reason as problem 1. I think this could have been an ordered or unordered list.
 			c. If not, organize the timeline into the appropriate list type
 
 3.	Examine doctype grouping
 			a.	Applies to: syntax.html
 			b.	Find the section on doctypes
 			c. Examine the three doctypes and their examples. Would a list be the best semantic presentation of this content?
+				Answer: Again I would say yes becausetThe doctypes are grouped, related items, each with an example, however this one is not as essential as the first 2 problems. 
 			d. If so, organize the links into the appropriate list type
 			
 4.	Examine HTML terms
 			a.	Applies to: reference.html
 			b.	Find the section for HTML terms
 			c. Examine the terms and their descriptions. Is this the best semantic grouping for the content?
+				Answer: Once again I would say a list is the best format here. I used a definition list <dl> here because they were an unordered grouping of definitions for terms.
 			d. If not, organize the links into the appropriate list type
